@@ -1,0 +1,39 @@
+_repo: The-Return-of-Sherlock-Holmes_221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: Magazine Edition
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '1995-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: "The Adventure of the empty house\r\nThe adventure of the Norwood\
+  \ builder\r\nThe adventure of the dancing men\r\nThe adventure of the solitary cyclist\r\
+  \nThe adventure of the priory school\r\nThe adventure of Black Peter\r\nThe adventure\
+  \ of Charles Augustus Milverton\r\nThe adventure of the six Napoleons\r\nThe adventure\
+  \ of the three students\r\nThe adventure of the golden pince-nez\r\nThe adventure\
+  \ of the missing three-quarter\r\nThe adventure of the Abbey Grange\r\nThe adventure\
+  \ of the second stain"
+title: The Return of Sherlock Holmes
+url: http://www.gutenberg.org/ebooks/221
